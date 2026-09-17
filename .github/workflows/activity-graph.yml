@@ -1,0 +1,48 @@
+name: Update Contribution Activity
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/activity-graph.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate activity graph
+        uses: dturovskiy/deus-commit-chart@v1
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          default-days: '30'
+          ranges: '30,90,365'
+          layout: spacious
+          output-dir: dist
+
+      - name: Publish SVGs to activity-assets branch
+        shell: bash
+        run: |
+          mkdir -p /tmp/activity-assets
+          cp dist/activity-30d.svg /tmp/activity-assets/
+          cp dist/activity-90d.svg /tmp/activity-assets/
+          cp dist/activity-365d.svg /tmp/activity-assets/
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch --orphan activity-assets
+          git rm -rf .
+          mkdir -p activity
+          cp /tmp/activity-assets/*.svg activity/
+          git add activity/
+          git commit -m "Update contribution activity charts"
+          git push origin activity-assets --force
