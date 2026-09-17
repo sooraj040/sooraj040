@@ -112,12 +112,8 @@ Personal portfolio project and workspace for showcasing development work.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sooraj040&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooraj040&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sooraj040&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak" />
+<img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 
 </div>
 
@@ -127,7 +123,7 @@ Personal portfolio project and workspace for showcasing development work.
 
 <div align="center">
 
-[![Sooraj's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sooraj040&theme=tokyo-night&hide_border=true)](https://github.com/sooraj040)
+<img src="https://raw.githubusercontent.com/sooraj040/sooraj040/activity-assets/activity/activity-30d.svg" width="95%" alt="GitHub contribution activity for the last 30 days" />
 
 </div>
 
@@ -137,7 +133,7 @@ Personal portfolio project and workspace for showcasing development work.
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sooraj040&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4)](https://github.com/sooraj040)
+<img src="./profile/trophy.svg" width="95%" alt="GitHub Trophies" />
 
 </div>
 
