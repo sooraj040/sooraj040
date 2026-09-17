@@ -1,72 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=220&section=header&text=SOORAJ%20SURESH&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20%7C%20BCA%20Student&descAlignY=60&descSize=18" width="100%" alt="Sooraj Suresh banner" />
+<img src="https://raw.githubusercontent.com/sooraj040/sooraj040/main/assets/banner.svg" width="100%" alt="Welcome to Sooraj's GitHub" />
 
-# Hi, I'm Sooraj Suresh
-
-### Python Full Stack Developer • BCA Student • AI & Data Enthusiast
-
-<p>
-  <a href="https://github.com/sooraj040"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=soorajsuresh038@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<a href="https://github.com/sooraj040"><img src="https://img.shields.io/badge/GITHUB-0B0D10?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=soorajsuresh038@gmail.com"><img src="https://img.shields.io/badge/MAIL-0B0D10?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" /></a>
 
 </div>
 
 ---
 
-## About Me
-
-```python
-sooraj = {
-    "name": "Sooraj Suresh",
-    "role": "Python Full Stack Developer",
-    "education": "BCA",
-    "location": "Kochi, Kerala, India",
-    "focus": ["Python", "Django", "React", "SQL", "Data Analysis"],
-    "interests": [
-        "Web Development",
-        "AI / Data",
-        "Problem Solving",
-        "Building Useful Projects"
-    ]
-}
-```
-
-I build practical software while developing strong foundations in Python, backend development, frontend development, databases and data analysis.
-
----
-
-## What I'm Working On
-
-- Building applications with **Python, Django and React**
-- Strengthening **SQL, Pandas and data-analysis** skills
-- Improving **Git/GitHub and software-development workflows**
-- Building responsive and maintainable web applications
-- Turning learning into practical, portfolio-ready projects
-
----
-
-## Featured Projects
+## 👤 About me
 
 <table>
 <tr>
-<td width="50%">
+<td width="68%" valign="top">
 
-### [Sooraj's Dev Studio](https://github.com/sooraj040/sooraj-s-dev-studio)
+Hi, I'm **Sooraj Suresh**, a BCA student and aspiring Python Full Stack Developer. I enjoy learning new technologies, building practical projects, and improving my development workflow.
 
-A modern developer portfolio built with React, TypeScript, Vite and TanStack tooling.
+My current focus is **Python, Django, React, SQL and data analysis**. I like turning ideas into useful software and keeping my projects clean, practical and maintainable.
 
-**Stack:** React · TypeScript · Vite · Tailwind
+<br>
+
+```text
+> currently_learning
+  Python · Django · React · SQL · Pandas
+
+> building
+  Full Stack Web Applications
+
+> interested_in
+  Web Development · AI/Data · Problem Solving
+```
 
 </td>
-<td width="50%">
+<td width="32%" align="center">
 
-### [Sooraj Portfolio](https://github.com/sooraj040/sooraj-portfolio)
-
-Personal portfolio project and workspace for showcasing development work.
-
-**Stack:** Web Development · UI · Portfolio
+<img src="https://raw.githubusercontent.com/sooraj040/sooraj040/main/assets/astronaut.svg" width="100%" alt="Monochrome astronaut illustration" />
 
 </td>
 </tr>
@@ -74,88 +43,68 @@ Personal portfolio project and workspace for showcasing development work.
 
 ---
 
-## Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
-<img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" />
-<img src="https://skillicons.dev/icons?i=typescript" height="45" alt="TypeScript" />
-<img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML" />
-<img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS" />
-<img src="https://skillicons.dev/icons?i=mysql" height="45" alt="SQL" />
-</p>
-
-### Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=django" height="45" alt="Django" />
-<img src="https://skillicons.dev/icons?i=react" height="45" alt="React" />
-<img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" />
-<img src="https://skillicons.dev/icons?i=pandas" height="45" alt="Pandas" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
-<img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-<img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" />
-<img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" />
-<img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma" />
-</p>
-
----
-
-## GitHub Analytics
+## ⚙ Technologies
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
-<img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+<img src="https://skillicons.dev/icons?i=python,django,react,js,ts,html,css,mysql,pandas,git,github,linux,vscode,figma&perline=7" alt="Technology stack" />
 
 </div>
 
 ---
 
-## Contribution Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sooraj040/sooraj040/activity-assets/activity/activity-30d.svg" width="95%" alt="GitHub contribution activity for the last 30 days" />
+<table>
+<tr>
+<td>
+<img src="./profile/stats.svg" width="100%" alt="Sooraj's GitHub statistics" />
+</td>
+<td>
+<img src="./profile/top-langs.svg" width="100%" alt="Sooraj's top languages" />
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="./profile/trophy.svg" width="95%" alt="GitHub Trophies" />
+<img src="https://raw.githubusercontent.com/sooraj040/sooraj040/activity-assets/activity/activity-30d.svg" width="100%" alt="Sooraj's GitHub contribution activity" />
 
 </div>
 
 ---
 
-## Connect With Me
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<a href="https://github.com/sooraj040"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=soorajsuresh038@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<img src="./profile/trophy.svg" width="100%" alt="Sooraj's GitHub trophies" />
 
 </div>
 
-> LinkedIn will be added after the profile is verified.
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/sooraj040"><img src="https://img.shields.io/badge/GitHub-0B0D10?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=soorajsuresh038@gmail.com"><img src="https://img.shields.io/badge/Email-0B0D10?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+</div>
 
 ---
 
 <div align="center">
 
-### `Code. Learn. Build. Repeat.`
-
-<img src="https://komarev.com/ghpvc/?username=sooraj040&style=flat-square&color=2563EB" alt="Profile views" />
+> `Discipline today builds the freedom of tomorrow.`
 
 </div>
