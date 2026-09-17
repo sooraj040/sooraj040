@@ -53,6 +53,20 @@ My current focus is **Python, Django, React, SQL and data analysis**. I like tur
 
 ---
 
+## 🚀 My Repositories
+
+<div align="center">
+
+<a href="https://github.com/sooraj040/sooraj-portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sooraj040&repo=sooraj-portfolio&theme=tokyonight&hide_border=true" alt="Sooraj Portfolio" /></a>
+<a href="https://github.com/sooraj040/sooraj-s-dev-studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sooraj040&repo=sooraj-s-dev-studio&theme=tokyonight&hide_border=true" alt="Sooraj's Dev Studio" /></a>
+
+</div>
+
+> **Portfolio:** open `sooraj-portfolio` to view the portfolio project.  
+> **Development:** `sooraj-s-dev-studio` contains the main development project and source code.
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
