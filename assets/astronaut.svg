@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" role="img" aria-label="Minimal monochrome astronaut illustration">
+<rect width="420" height="320" fill="#05070a"/>
+<g fill="none" stroke="#f0f0f0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="210" cy="132" r="48"/>
+<path d="M174 128c12-16 60-16 72 0"/>
+<circle cx="194" cy="130" r="5"/><circle cx="226" cy="130" r="5"/>
+<path d="M186 162c14 9 34 9 48 0"/>
+<path d="M181 174l-25 62 54 22 29-75"/>
+<path d="M156 197l-37 31 20 22 42-27"/>
+<path d="M239 185l47 19-13 28-48-20"/>
+<path d="M191 253l-10 42h-31"/><path d="M235 257l20 38h31"/>
+<path d="M129 89l-27-22M291 91l28-22M119 122l-35 2M302 123l35 3" opacity=".55"/>
+</g>
+<g fill="#f0f0f0"><circle cx="64" cy="55" r="2"/><circle cx="350" cy="66" r="2"/><circle cx="74" cy="274" r="2"/><circle cx="335" cy="254" r="2"/></g>
+<text x="210" y="310" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="13">// keep exploring</text>
+</svg>
