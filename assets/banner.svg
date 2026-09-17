@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Welcome to Sooraj's GitHub</title><desc id="desc">Minimal monochrome mountain landscape with a winding road and terminal-style text.</desc>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b0e12"/><stop offset="1" stop-color="#171b21"/></linearGradient></defs>
+<rect width="1200" height="330" fill="url(#sky)"/>
+<path d="M0 205 L130 160 230 205 340 125 450 190 565 108 680 190 790 142 905 204 1010 150 1200 210 V330 H0Z" fill="#050609"/>
+<path d="M0 245 C175 215 310 275 455 232 C595 190 665 278 805 235 C945 192 1050 260 1200 225 V330 H0Z" fill="#020304"/>
+<path d="M595 330 C620 297 640 280 670 260 C700 240 724 226 751 211 C772 199 795 186 816 172 C793 187 772 199 744 207 C716 215 689 219 662 218 C634 217 607 224 584 238 C557 254 543 278 531 330Z" fill="#e8e8e8" opacity=".88"/>
+<g fill="#f1f1f1" font-family="monospace" text-anchor="middle"><text x="600" y="82" font-size="16">//</text><text x="600" y="112" font-size="24">Welcome to Sooraj's GitHub</text><text x="600" y="142" font-size="16">//</text></g>
+<g fill="#c9c9c9" font-family="monospace" font-size="15"><text x="1040" y="105">BUILD</text><text x="1040" y="128">LEARN</text><text x="1040" y="151">IMPROVE</text><text x="1040" y="174">REPEAT</text><text x="1040" y="197">_</text></g>
+<rect x="0" y="0" width="1200" height="330" fill="none" stroke="#343a43"/>
+</svg>
