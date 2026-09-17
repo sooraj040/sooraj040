@@ -148,7 +148,7 @@ Personal portfolio project and workspace for showcasing development work.
 <div align="center">
 
 <a href="https://github.com/sooraj040"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:soorajsuresh038@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:soorajsuresh038@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 
 </div>
 
